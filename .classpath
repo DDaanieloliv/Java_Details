@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Encriptação/src"/>
+	<classpathentry kind="src" path="Projetinho/src"/>
+	<classpathentry kind="src" path="Remoto/src"/>
+	<classpathentry kind="src" path="UFCemojiCombat/src"/>
+	<classpathentry kind="output" path="Encriptação/build/classes"/>
+</classpath>
