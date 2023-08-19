@@ -6,5 +6,6 @@
 	<classpathentry kind="src" path="Remoto/src"/>
 	<classpathentry kind="src" path="UFCemojiCombat/src"/>
 	<classpathentry kind="src" path="ContaBanco"/>
+	<classpathentry kind="src" path="Related"/>
 	<classpathentry kind="output" path="Encriptação/build/classes"/>
 </classpath>
