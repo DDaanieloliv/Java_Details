@@ -4,8 +4,8 @@ import java.util.Scanner;                                                       
 
 public class Encriptação {
     public static void main(String[] args) {
-       try (//Scanner entrada = new Scanner(System.in);                            // CRIANDO VARIAVEL TIPO 'Scanner'. Cujo comando nesta linha 
-	Scanner entrad = new Scanner (System.in)) {									  // dá o nome de 'entrada' 'System.in' REPRESENTA O TECLADO   
+       try (//Scanner entrada = new Scanner(System.in);                         // CRIANDO VARIAVEL TIPO 'Scanner'. Cujo comando nesta linha 
+	Scanner entrad = new Scanner (System.in)) {				// dá o nome de 'entrada' 'System.in' REPRESENTA O TECLADO   
            
        
        
