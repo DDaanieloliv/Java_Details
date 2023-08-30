@@ -11,9 +11,9 @@ public class Encriptação {
        
        
        /*
-            // Informa texto e chave de criptografia
-            System.out.print("Informe o texto a ser criptografado: ");   
-            String texto  = entrada.nextLine();                              
+        // Informa texto e chave de criptografia
+        System.out.print("Informe o texto a ser criptografado: ");   
+        String texto  = entrada.nextLine();                              
                                                                                 // CRIANDO UMA VARIAVEL TIPO 'String', CUJO NOME É 'texto'. 
                                                                                 // 'texto' IRÁ RECEBER O OBJETO 'entrada' QUE CHAMA O METODO 
                                                                                 // nextLine(); "ou seja 'texto' RECEBE a CHAMADA(entrada.nextLine()) 
